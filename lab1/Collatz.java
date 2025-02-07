@@ -1,5 +1,5 @@
 /** Class that prints the Collatz sequence starting from a given number.
- *  @author echo-escape
+ *  @author echo-escape 123456
  */
 public class Collatz {
 
